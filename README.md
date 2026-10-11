@@ -1,20 +1,19 @@
 # Prathamesh Ghumade
 
-My focus is Application Security, especially authorization, security architecture and design reviews, threat modeling, and security for AI and agentic systems.
+My focus is application security, especially AI, LLMs, and agentic systems. My technical interests include prompt injection, agent tool permissions, credential isolation, and access control across user and tenant boundaries.
 
-I’m building a public portfolio of practical security examples and reproducible experiments.
+I’m building a public portfolio of small, reproducible security examples.
 
-## Areas of interest
+## Technical interests
 
-- Object-level authorization, tenant isolation, and identity propagation.
-- Threat models that connect abuse cases to security requirements and tests.
-- Agent tool permissions, scope enforcement, credential isolation, and prompt injection.
+- AI/LLM and agent security: prompt injection, tool permissions, scope enforcement, and credential isolation.
+- Security architecture and design reviews that connect abuse cases to security requirements and tests.
+- Object-level access control, tenant isolation, and identity propagation.
 - Security-review methods that document evidence, false positives, and coverage limits.
 - Local-model security assistance evaluated through reproducible experiments.
 
 ## Goals for public projects
 
-I want to publish small, independently built examples that connect a security requirement to an implementation and tests that verify its behavior.
+Each example should connect a threat model to a vulnerable implementation, a corrected implementation, and tests that verify the difference.
 
-Each project should explain its design decisions, setup, validation results, and limitations so another engineer can reproduce and challenge the result.
-
+I want another engineer to be able to reproduce the behavior, inspect the fix, and understand what the tests do not cover.
