@@ -1,16 +1,20 @@
-## Hi there 👋
+# Prathamesh Ghumade
 
-<!--
-**6R1M-5H3PH3RD/6R1M-5H3PH3RD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My focus is Application Security, especially authorization, security architecture and design reviews, threat modeling, and security for AI and agentic systems.
 
-Here are some ideas to get you started:
+I’m building a public portfolio of practical security examples and reproducible experiments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of interest
+
+- Object-level authorization, tenant isolation, and identity propagation.
+- Threat models that connect abuse cases to security requirements and tests.
+- Agent tool permissions, scope enforcement, credential isolation, and prompt injection.
+- Security-review methods that document evidence, false positives, and coverage limits.
+- Local-model security assistance evaluated through reproducible experiments.
+
+## Goals for public projects
+
+I want to publish small, independently built examples that connect a security requirement to an implementation and tests that verify its behavior.
+
+Each project should explain its design decisions, setup, validation results, and limitations so another engineer can reproduce and challenge the result.
+
