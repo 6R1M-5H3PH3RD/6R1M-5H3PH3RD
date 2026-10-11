@@ -1,13 +1,7 @@
 # Prathamesh Ghumade
 
-Application security engineer focused on **AI/LLM security and agentic systems**.
+Security Engineer at Amazon · AppSec & AI/LLM security
 
-My focus is the boundary between untrusted input and privileged actions: the identity an agent uses, the data it can reach, and the tools it can call.
+I work on application security and study what happens when LLMs get access to tools and credentials.
 
-## Technical interests
-
-- Prompt injection, tool misuse, and credential isolation in AI/LLM and agentic systems.
-- Security architecture and design reviews that connect abuse cases to testable controls.
-- Access control across user and tenant boundaries, including identity propagation between services and tools.
-- AI-assisted security review: evidence quality, false positives, and coverage limits.
-- Local-model security experiments with reproducible methods and explicit limitations.
+My research covers securing AI agents and using AI for security reviews, particularly how to verify findings and reduce false positives.
